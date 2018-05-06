@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
-font-size: 125%
+webrick:
+  headers:
+    My-Header: My-Value11
